@@ -1,0 +1,38 @@
+
+h1 {
+    text-align: center;
+}
+li{ text-align: center;}
+li a{
+    display: block;
+    color: saddlebrown;
+    text-align: center;
+        }
+li a:hover{
+    color: sandybrown;
+    border-bottom-style: solid ;
+    border-bottom: saddlebrown;
+            }
+body{
+        background-color: beige;
+}
+
+#menu{ background-color: antiquewhite;
+
+     }
+#logo{
+
+    position: relative;
+    top: -80px;
+  width:178px;
+    height: 206px;
+}
+#main{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-width:5px ;
+    border-color: saddlebrown;
+}
